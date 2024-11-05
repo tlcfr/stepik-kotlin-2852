@@ -1,4 +1,4 @@
-package ru.tlcfr.stepik.kotlin2852.module_1.step_1_2_1
+package ru.tlcfr.stepik.kotlin2852.module_1
 
 fun toJSON(collection: Collection<Int?>): String {
     val sb = StringBuilder()

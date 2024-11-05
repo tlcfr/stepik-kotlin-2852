@@ -1,4 +1,4 @@
-package ru.tlcfr.stepik.kotlin2852.module_1.step_1_4_1
+package ru.tlcfr.stepik.kotlin2852.module_1
 
 fun foo(name: String, number: Int = 42, toUpperCase: Boolean = false) =
     (if (toUpperCase) name.toUpperCase() else name) + number
